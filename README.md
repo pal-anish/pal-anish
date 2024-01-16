@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-anish&label=Profile%20views&color=0e75b6&style=flat" alt="pal-anish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pal-anish" alt="pal-anish" /></a> </p>
 <img align ="right" alt="coding" width="400px" src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
 - 🔭 I’m currently working on **AppSmith Open source Project**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pal-anish&show_icons=true&locale=en&layout=compact" alt="pal-anish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-anish&show_icons=true&locale=en" alt="pal-anish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-anish&" alt="pal-anish" /></p>
