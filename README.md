@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-anish&label=Profile%20views&color=0e75b6&style=flat" alt="pal-anish" /> </p>
+<img align ="right" alt="coding" width="400px" src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pal-anish?tab=repositories](https://github.com/pal-anish?tab=repositories)
 
@@ -11,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/anish-pal-177726173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-pal-177726173" height="30" width="40" /></a>
+<a href="https://discord.gg/jimmy.26474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jimmy.26474" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
